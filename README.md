@@ -2,9 +2,9 @@
 
 本题：写作12｜学术翻译与双语写作（challenge-bb17a294，赛道 writing）。
 
-能力定位：在保留原始事实（数字、单位、引用、图表编号、专有名词）的前提下改写与扩写学术文本，产出可直接落盘的成稿，并给出逐条可核验的变更记录
+能力定位：判定翻译方向，逐句翻译并与原文对齐，术语按词表固定译法、数字与单位守恒；覆盖率不足的句子如实标注。
 
-交付物：result.json（契约齐全）、改写稿、evidence_map、change_log
+交付物：translation.zh.md、translation.en.md、bilingual.csv、glossary.json、translation-qa.json
 
 
 ## 这个 Skill 做什么
